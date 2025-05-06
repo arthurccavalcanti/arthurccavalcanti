@@ -13,11 +13,6 @@ MY README PROFILE
 - Web Development
 - Network Systems
 
-## 📚 Currently learning... 
-- Pandas/Numpy
-- Django
-- C/C++
-
 ## Tools I Play With
 <p align="center">
     <img alt="html" src="assets/html.svg" style="vertical-align:top; margin:4px">    
