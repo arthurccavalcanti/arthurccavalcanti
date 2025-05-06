@@ -20,11 +20,11 @@ MY README PROFILE
 
 ## Tools I Play With
 <p align="center">
-    <img src="assets/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-    <img src="assets/js.svg" alt="js" style="vertical-align:top; margin:4px">
+    <img alt="html" src="assets/html.svg" style="vertical-align:top; margin:4px">    
+    <img alt="js" src="assets/js.svg" style="vertical-align:top; margin:4px">
     <img src="assets/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-    <img title="Python" alt="Python" src="assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-    <img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+    <img alt="Python" src="assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+    <img alt="MySQL" src="assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 <h2>Some articles I wrote</h2>
